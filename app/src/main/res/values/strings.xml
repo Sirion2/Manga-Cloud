@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Manga Cloud</string>
+    <string name="login_email_hint">User@correo.cloud</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_username_hint">Usuario</string>
+    <string name="login_mangafav_hint">Manga Favorito</string>
+    <string name="login_btn1">Iniciar Sesion</string>
+    <string name="login_btn2">Registrase</string>
+    <string name="password_recov">Recuperar Contraseña</string>
+    <string name="login_singin">** Registrate **</string>
+    <string name="main_text1">Resultados...</string>
+    <string name="main_btn1_txt1">ALL</string>
+    <string name="main_btn1_txt2">Filtrar [DESC]</string>
+
+    <string name="profile_btn1">Cambiar Password</string>
+    <string name="profile_btn2">Salir</string>
+    <string name="profile_btn3">Examinar...</string>
+    <string name="profile_btn4">Actualizar</string>
+
+</resources>

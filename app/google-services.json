@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632008395367",
+    "project_id": "proyf-des6",
+    "storage_bucket": "proyf-des6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632008395367:android:4f1ff8ccee3d3b905be2c2",
+        "android_client_info": {
+          "package_name": "com.example.mangacloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632008395367-c4jfbmlfngrqs1ge60m296n5ma7ifkqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mangacloud",
+            "certificate_hash": "3e973cc30eb32a89bc4c6a81818358da0ff1ed89"
+          }
+        },
+        {
+          "client_id": "632008395367-rd66c87hfq9utruf21flgqfl0u486u14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKjq3d2LD1KJOk-azDjbd_hVsFqwi84CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632008395367-rd66c87hfq9utruf21flgqfl0u486u14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

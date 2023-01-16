@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1985" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1985" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/drawable/rectangle.xml" value="0.335" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/drawable/rectanglelogin.xml" value="0.2985" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/drawable/rectanglelogin.xml.xml" value="0.2985" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/drawable/splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_anime_wpage.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_manga.xml" value="0.25" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_news.xml" value="0.5" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_password_recovery.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_pdfreader.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/alert_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/mangalist_item.xml" value="0.75" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/slide_in_right.xml" value="0.1" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/user_row_item.xml" value="0.1" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/volume_list.xml" value="0.33" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/mipmap-anydpi-v26/ic_launcher_Manga_Cloud.xml" value="0.1" />
+        <entry key="..\:/Users/NULL_PTR/AndroidStudioProjects/MangaCloud/app/src/main/res/mipmap-anydpi-v26/ic_launcher_Manga_Cloud_round.xml" value="0.1" />
+        <entry key="..\:/Users/Null_Ptr/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Null_Ptr/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Null_Ptr/AndroidStudioProjects/MangaCloud/app/src/main/res/layout/activity_manga.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36666666666666664" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
