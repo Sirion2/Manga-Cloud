@@ -3,7 +3,7 @@ Aplicación para la lectura de anime y manga.
 
 ## Herramientas Utilizadas:
 - [x] Java.
-- [x] Andorid Studio.
+- [x] Android Studio.
 - [x] Google Firebase
 - [x] Herramientas de Edición.
 
