@@ -8,7 +8,7 @@ Aplicación para la lectura de anime y manga.
 - [x] Herramientas de Edición.
 
 ## Caracteristicas:
-La plicación está desarrollada para se familia al usuario de manera inmediata, facilitando su uso , inclusive a personas no afines a dispositivos mobiles.
+La aplicación está desarrollada para se familia al usuario de manera inmediata, facilitando su uso , inclusive a personas no afines a dispositivos mobiles.
 
 ## Secciones:
  - Registro.
